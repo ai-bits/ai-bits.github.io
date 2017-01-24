@@ -23,6 +23,8 @@ So currently I'm waiting for MS to alleviate at least the VS 2013 requirement un
 In the meantime I set up Google Bazel to compile TensorFlow and it sort of worked, at least on Ubuntu, but I rather dig into TensorFlow and CNTK practical examples.
 
 # 20170123 Welcome to Günter's AI Page!
-Actually I prefer ballroom dancing.
+Actually I prefer ballroom dancing, not really dressed up, but still...
 
 ![Babycha](images/Babycha1.gif)
+
+And I like to run after balls for the life of me, mainly in soccer / football, (beach) volleyball. Too short for basketball.
