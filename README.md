@@ -12,7 +12,7 @@ cd c:\local
 .\install.ps1 -AnacondaBasePath c:\local\Anaconda3
 ```
 
-Initially I posted a rant on the CNTK forum, because I regarded the suggested `c:\local` location quite weired -- only to find out weeks later when I finally got around to dig into compiling CNTK:  
+Initially I posted a rant on the CNTK forum, because I regarded the suggested `c:\local` location quite weired --- only to find out weeks later when I finally got around to dig into compiling CNTK:  
 It had a literal dozen of dependencies on locations and versions of pivotal parts, and `c:\local` was one of them. (apart from the exact Visual Studio 2013 version, the custom Intel MKL DNN version and the exact location of all kinds of Nvidia CUDA libraries,...)  
 Sure you could tweak some of that, but I wouldn't want to know what could be hard-coded somewhere and I wouldn't like to run into the endless hassles.
 
