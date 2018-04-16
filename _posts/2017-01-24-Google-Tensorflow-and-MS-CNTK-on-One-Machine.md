@@ -1,3 +1,7 @@
+---
+layout: post
+title: Google Tensorflow and MS CNTK on One Machine
+---
 # 2017-01-24 Google Tensorflow and MS CNTK on One Machine
 After much reading and experimentation I'm starting to collect my AI-bits here.
 
