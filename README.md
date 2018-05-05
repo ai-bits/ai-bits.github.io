@@ -39,14 +39,16 @@ Now who would need this?
 The button-label actually says that, but with the relatively poor English of the page they could have meant all sorts of things.   
 The **complete** assembly PDF is hidden in a zip ([Tutorials Link](https://www.adrive.com/public/vJjVc4/AdeeptIntelligentRemoteControlCarKitForArduinoV1_2.zip)) way below on the page.
 
-One often has to look very hard and carefully how to fit parts. E.g. the front bumper and the rest of the chassis are held together with some plate, but the exact fit is really hard to get from the murky picture.
+One often has to look very hard and carefully how to fit parts. E.g. the front bumper and the rest of the chassis are held together with some plate on top of the other two. This is really hard to get from the murky picture.
 
-The SunFounder docs sound like native speaker English, while the Adeept ones don't and often use expressions that don't exactly fit.
+The SunFounder docs sound like native speaker English, while the Adeept ones don't and often use expressions that don't exactly fit. Only two examples out of a lot:
+- sticker instead of stick (on the remote)
+- self-prepared instead of self-supplied parts
 
 ### PWM Hardware & Software Quality Problems
-So far I didn't check the Adeept software very much as I mostly bought it for its Arduino platform and interesting remote control concept based on Arduino Nanos.
+So far I didn't check the Adeept software very much as I mostly bought the car for its Arduino platform and interesting RC based on Nanos.
 
-What immediately caught my eye:
+What immediately caught my eye in the AdeeptRemoteControl.ino:
 ```C
 if(mode==0){ // Apparently there are exactly two modes
   digitalWrite(led2Pin,HIGH);
@@ -59,11 +61,11 @@ if(mode==1){ // Why the heck is here another if and no else?
 ```
 Is this the way we teach the kids programming skills?
 
-I found immediately awkward that motor control and steering are split up between the paddles on the RC. One of the first things I will when I find time or want to use it: Unify the control on one paddle.
+I found immediately awkward that motor control and steering are split up between the paddles on the RC. One of the first things I will do when I find time or want to use it: Unify the control on one stick.
 
-The SunFounder delivers what I want for the Ford / Jetson combo: Hardware-based Pulse Width Modulation motor and servo control. Guess it won't hurt to off-load this task once the Jetson gets busy with driving.
+The SunFounder delivers implementation examples that I want for the Ford / Jetson combo: Hardware-based Pulse Width Modulation motor and servo control. Guess it won't hurt to off-load this task once the Jetson gets busy with driving.
 
-But the software leaves a lot to be desired, with comments lacking where needed, bugs, functional deficiencies and the quality of the code is not up to the pedagogical claims. For improvements see the [Github repo](https://github.com/ai-bits/SunFounder-improved).
+But the software leaves a lot to be desired, with comments lacking where needed, ignored bugs (Quit function in the Client GUI), functional deficiencies and the quality of the code is not up to the pedagogical claims. For improvements see the [Github repo](https://github.com/ai-bits/SunFounder-improved).
 
 # Github Repositories / Blogs
 [2018-05-04 SunFounder Smart Video Car software improved and pimped](https://github.com/ai-bits/SunFounder-improved)
