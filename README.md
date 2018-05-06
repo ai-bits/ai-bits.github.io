@@ -45,7 +45,7 @@ The SunFounder docs sound like native speaker English, while the Adeept ones don
 - sticker instead of stick (on the remote)
 - self-prepared instead of self-supplied parts
 
-### PWM Hardware & Software Quality Problems
+### Software Quality Problems
 So far I didn't check the Adeept software very much as I mostly bought the car for its Arduino platform and interesting RC based on Nanos.
 
 What immediately caught my eye in the AdeeptRemoteControl.ino:
