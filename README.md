@@ -1,9 +1,20 @@
-# Günter's AI / Deep Learning Pages  
-Other than bioinformatics:  
+# Guenter's AI / Deep Learning Pages  
+Other than bioinformatics and machine learning:  
 ![Babycha](images/Babycha1.gif)
 
 Actually I prefer ballroom dancing, not really dressed up, but still...  
 And I like to run after balls for the life of me, mainly in soccer / football, (beach) volleyball. Too short for basketball.
+
+## Smart Watch Use Cases
+### Apple Watch
+The Watch comes in nicely to help the old brain get up to speed again with music titles and their artists, ancient and new. (There used to be a time where I _knew_ this. Long gone. New info occupying that space.)  
+In that respect I appreciate the new BMW's FM RDS displaying this info. How many times did I pledge to look up the great new song that's been playing on the radio, but almost always forgot then. Maybe I need the Apple Watch's dictation function to make this really work.
+
+The Digital Crown comes in handy to adjust the volume for the totally wireless and tiny Sony WF-1000X in-ears (no good fit for _my_ ears) that don't have such a control.  
+Even for the Sony WH-1000XM2 on-ears (highly recommended for their sound and active noise cancelling) I rather use the crown than the touchpad, because that might mis-interpret a gesture while the crown will not and I have finer control and feedback of the volume.
+### Huawei Watch 2
+In spring 2018 I bought a Huawei Watch 2, because I wanted a WearOS device that I can do programming trials.  
+While I generally like the Watch 2 and its software, the heart-rate-sensor is trash and I rely on the one on the Apple Watch.
 
 ## 2018-05-04 Adeept and SunFounder Car Kits - Part 1: Tips and Tweaks
 This is about my venture into lane-detecting and ultimately self-driving model cars, starting with simple [improvements to the SunFounder software available in the respective repository](https://github.com/ai-bits/SunFounder-improved).
