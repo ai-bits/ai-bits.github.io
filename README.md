@@ -6,14 +6,16 @@ Other than that:
 Actually I prefer ballroom dancing, not really dressed up, but still...  
 And I like to run after balls for the life of me, mainly in soccer / football, (beach) volleyball. Too short for basketball.
 
-## Apple Watch 4 Infograph (Modular) Watchfaces
-20181122 - 20181122 (to be continued and updated)  
-While the colorfulness of the as-of-Watch-4-new Infograph watchfaces is debatable design-wise, I just love their functionality and show-off looks!
+## Apple Watch 4 Infograph (Modular) Watchfaces / Zifferblätter
+20181122 - 2018112211 (to be continued and updated)  
+While the colorfulness of the as-of-Watch-4-new Infograph watchfaces is debatable design-wise, I still love their eye-catching eye-candy looks, functionality and how they max out the display real-estate!
+
+In their current state the design totally reminds me of the early nineties, where absolutely tasteless desktop-publishing amateurs thought they need to show off every single font (in the hundreds) and face that Corel Draw offered. That could only be outdone by the ugliness of Word-Art.
 
 ![Watch Editor](images/Watch4/MyWatchFaces.PNG)
 
-## Smart Watch Use Cases
-### Apple Watch
+## Smart Watch Use Cases in 2017 and Beyond
+### Apple Watch - Wo ich sie nicht mehr vermissen möchte
 The Watch comes in nicely to help the old brain get up to speed again with music titles and their artists, ancient and new. (There used to be a time where I _knew_ this. Long gone. New info occupying that space.)  
 In that respect I appreciate the new BMW's FM RDS displaying this info. How many times did I pledge to look up the great new song that's been playing on the radio, but almost always forgot then. Maybe I need the Apple Watch's dictation function to make this really work.
 
