@@ -1,9 +1,16 @@
-# Guenter's AI / Deep Learning Pages  
-Other than bioinformatics / genomics / omics and machine learning / deep learning:  
+# Guenter's Real-World Artificial Intelligence Diary  
+#### About bioinformatics / genomics / omics and machine learning / deep learning -- or no (human) intelligence in software  
+Other than that:  
 ![Babycha](images/Babycha1.gif)
 
 Actually I prefer ballroom dancing, not really dressed up, but still...  
 And I like to run after balls for the life of me, mainly in soccer / football, (beach) volleyball. Too short for basketball.
+
+## Apple Watch 4 Infograph (Modular) Watchfaces
+20181122 - 20181122 (to be continued and updated)  
+While the colorfulness of the as-of-Watch-4-new Infograph watchfaces is debatable design-wise, I just love their functionality and show-off looks!
+
+![Watch Editor](images/Watch4/MyWatchFaces.PNG)
 
 ## Smart Watch Use Cases
 ### Apple Watch
