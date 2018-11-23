@@ -21,7 +21,17 @@ When I came across such a specimen / leaflet I used to ask people if they had a 
 
 I still love the Infographs' eye-catching eye-candy looks and how they max out functionality and display real-estate!
 
-![Watch Editor](images/Watch4/MyWatchFaces.PNG)
+<p align="center">
+<img src="images/Watch4/MyWatchFaces.PNG" title="My Watch > My Watchfaces">
+</p>
+
+In trying to get good functionality of my Infograph collection I had to totally leave behind color harmony.  
+Not only the Infograph on the left (most essential items for myself) appears very busy, but even if you only take solar system, earth, moon and solar, the items don't really match.
+
+In addition limited placement options and symmetry considerations get in the way.
+
+Placement option groups:
+Peripheral: Stock info only top left & right and bottom left & right
 
 ## Smart Watch Use Cases in 2017 and Beyond
 ### Apple Watch - Wo ich sie nicht mehr missen möchte
