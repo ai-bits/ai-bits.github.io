@@ -7,10 +7,13 @@ Actually I prefer ballroom dancing, not really dressed up, but still...
 And I like to run after balls for the life of me, mainly in soccer / football, (beach) volleyball. Too short for basketball.
 
 ## Apple Watch 4 Infograph (Modular) Watchfaces / Zifferblätter
-2018-11-22 - 2018-11-22 (to be continued and updated)  
-While there are only a few beautifully crafted shape-themes, fitting the overall expectance of coolness in Apple design, the colorfulness of the as-of-Watch-4-new Infograph watchfaces is a real bummer.
+2018-11-22 - 2018-11-23 (to be continued and updated)  
+Apple makes a big deal about the Watch 4's bigger screen and how the Infograph watchfaces take advantage of it with no less than eight complications. Having grown totally immune to over-hyped details with little to no usefulness, I must emphasize that I'm impressed.
 
-The only solution for the sensible would be to theme the colors, but from experience I know that the bulk of the people won't recognize the sorry state at all.
+There is one detail though that hurts the connoisseur's eye:
+While shapes are beautifully crafted, fitting the overall expectance of coolness in Apple design, the overall colorfulness and the multitude of non-matching colors is a real bummer.
+
+The only solution for the sensible would be to theme the colors, but I guess we won't see that soon and from experience I know that the bulk of the people won't recognize the sorry state at all.
 
 The Infographs' current coloring totally reminds me of the early nineties, where absolutely tasteless desktop-publishing amateurs thought they need to show off every single font (in the hundreds) and face that Corel Draw offered. That could only be outdone by the ugliness of Word-Art.
 
@@ -21,7 +24,7 @@ I still love the Infographs' eye-catching eye-candy looks and how they max out f
 ![Watch Editor](images/Watch4/MyWatchFaces.PNG)
 
 ## Smart Watch Use Cases in 2017 and Beyond
-### Apple Watch - Wo ich sie nicht mehr vermissen möchte
+### Apple Watch - Wo ich sie nicht mehr missen möchte
 The Watch helps the old brain get up to speed again with music titles and their artists, ancient and new. (There used to be a time where I *knew* this. Long gone. New info occupying that space.)  
 In that respect I appreciate the new BMW's FM RDS displaying this info. How many times did I pledge to look up the great new song that's been playing on the radio, but almost always forgot then. Maybe I need the Apple Watch's dictation function to make this really work.
 
@@ -35,7 +38,7 @@ While I generally like the Huawei Watch 2 and Wear OS, the heart-rate-sensor is 
 But in praxis it was outdone by WatchOS 5 the first day.  
 I had passed on and updated the Apple Watch Series 2. When we took a walk I showed how to trigger the walk workout on manually, as I was used to. After a couple of minutes my Series 4 asked if I was having a walk. Nice.
 
-This is not to say I'll rely on the auto-detect any time soon. First need to gain experience how good the auto-trigger is or gets -- and how much and how fast it learns. Guess everybody tends to forget to trigger and it was another pleasant surprise to see the Watch ask when I drove off in the car.
+This is not to say I'll rely on the auto-detect any time soon. First need to gain experience how good the auto-trigger is or gets -- and how much and how fast it learns. Guess everybody tends to forget to trigger and it was another pleasant surprise to see the Watch ask after the walk when I drove off in the car.
 
 ## 2018-05-04 Adeept and SunFounder Car Kits - Part 1: Tips and Tweaks
 This is about my venture into lane-detecting and ultimately self-driving model cars, starting with simple [improvements to the SunFounder software available in the respective repository](https://github.com/ai-bits/SunFounder-improved).
